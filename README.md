@@ -10,8 +10,8 @@
 
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently taking HNG internship.
-- 🌱 I’m currently learning Framer motion and upskilling in React.js.
+- 💡 Fun fact: I'm currently participating in HNG internship.
+- 🌱 I’m currently learning Framer motion and enhancing my skills in React.js.
 - 🤔 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer (Internship or Junior roles).
 
