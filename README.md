@@ -1,16 +1,26 @@
-### Hi there 👋
+![My Image](github-banner.png)
 
-<!--
-**Udokaineh/Udokaineh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <h2 align="center">Hi there 👋, I'm Udoka Ineh</h2>
 
-Here are some ideas to get you started:
+#### Innovative and mental flexible Front-end Developer
+![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-5E5E5E?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-5E5E5E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-5E5E5E?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 😊 Pronouns: She/Her
+- 💡 Fun fact: I'm currently taking HNG internship.
+- 🌱 I’m currently learning Framer motion and upskilling in React.js.
+- 🤔 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Frontend Engineer (Internship or Junior roles).
+
+---
+
+Here is a link to my **[Portfolio](https://udoka-inehs-portfolio.netlify.app/)**
+Let's connect! Feel free to reach out to me through my **[Twitter](https://twitter.com/mag_daleneeee)** or **[LinkedIn](https://www.linkedin.com/in/udoka-ineh/).**
+
+
+<p align="center">
+  🔥 Happy Coding! 🔥
+</p>
