@@ -1,6 +1,6 @@
 ![My Image](github-banner.png)
 
-## <h2 align="center">Hi there 👋, I'm Udoka Ineh</h2>
+## <h2 align="center">Hi there 👋, I'm MaryMagdalene</h2>
 
 #### Innovative and mental flexible Front-end Developer
 ![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -17,7 +17,7 @@
 
 ---
 
-Here is a link to my **[Portfolio](https://udoka-inehs-portfolio.netlify.app/)**
+Here is a link to my **[Portfolio](https://mag-portfolio-udoka-s-projects.vercel.app/)**
 Let's connect! Feel free to reach out to me through my **[Twitter](https://twitter.com/mag_daleneeee)** or **[LinkedIn](https://www.linkedin.com/in/udoka-ineh/).**
 
 
