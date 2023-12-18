@@ -1,8 +1,8 @@
 ![My Image](github-banner.png)
 
-## <h2 align="center">Hi there 👋, I'm MaryMagdalene</h2>
+## <h2 align="center">Hi there 👋</h2>
 
-#### Innovative and mental flexible Front-end Developer
+#### Innovative and mentally flexible Front-end Developer
 ![HTML](https://img.shields.io/badge/HTML-5E5E5E?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-5E5E5E?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-5E5E5E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
