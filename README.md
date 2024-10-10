@@ -20,7 +20,7 @@
 
 Here is a link to my **[Design Portfolio](https://www.behance.net/udokaineh)**
 Here is a link to my **[Front-end Portfolio](https://mag-portfolio-udoka-s-projects.vercel.app/)**
-Let's connect! Feel free to reach out to me through my **[Twitter](https://twitter.com/mag_daleneeee)** or **[LinkedIn](https://www.linkedin.com/in/udoka-ineh/).**
+Let's connect! Feel free to reach out to me through my **[Twitter](https://x.com/mag_daleneee)** or **[LinkedIn](https://www.linkedin.com/in/udoka-ineh/).**
 
 
 <p align="center">
